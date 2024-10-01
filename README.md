@@ -61,6 +61,22 @@ func main() {
     fmt.Println("Decrypted message:", decrypted)
 }
 ```
+the encoded grid/message would look like: 
+
+```bash
+𐤉𐤆𐤁𐤈𐤂𐤇𐤌𐤉𐤂𐤂𐤓
+𐤁𐤅𐤎𐤆𐤐𐤅𐤍𐤍𐤓𐤈𐤓
+𐤇𐤈𐤕𐤃𐤂𐤃𐤊𐤃𐤐𐤓𐤂
+𐤎𐤊𐤕𐤐𐤋𐤌𐤁𐤓𐤒𐤔𐤂
+𐤐𐤋𐤓𐤊𐤐𐤂𐤀𐤀𐤁𐤔𐤍
+𐤌𐤈𐤎𐤋𐤆0𐤀𐤓𐤍𐤏𐤐
+𐤅𐤇𐤋𐤀𐤃𐤎𐤂0𐤈𐤏𐤒
+𐤍0𐤇𐤃𐤏𐤀𐤏𐤒𐤍𐤉𐤊
+𐤇𐤁𐤀𐤂𐤐𐤅𐤁𐤈𐤏1𐤄
+𐤋𐤑𐤐1𐤊𐤔𐤕𐤔𐤎𐤂𐤀
+𐤇𐤁𐤓𐤁𐤎𐤊𐤎𐤐𐤉𐤆𐤇
+```
+
 
 ## Character Sets
 
